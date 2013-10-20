@@ -1,4 +1,4 @@
-name: Your New Jekyll Site
+name: HomeBrewster Blog
 pygments: true
 exclude:
  - unicorn.rb
