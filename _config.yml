@@ -1,4 +1,4 @@
-name: HomeBrewster Blog
+name: Home Brewster
 pygments: true
 exclude:
  - unicorn.rb

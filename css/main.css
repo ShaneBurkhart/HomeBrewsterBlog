@@ -17,10 +17,9 @@ body {
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
+  color: #222;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -34,11 +33,21 @@ table {
   font: 100%;
 }
 
+
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
+
+.post{
+  margin: 30px 0px;
+}
+
+.preview-title{
+  color: #333;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -60,45 +69,45 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-.site {
+.container{
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 700px;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
 
-.site .header a {
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.site .header h1.title {
+h1.title {
   display: inline-block;
   margin-bottom: 2em;
+  line-height: 1;
+  margin: 0;
+  font-size: 2.2em;
 }
 
-.site .header h1.title a {
+h1.title a{
   color: #a00;
 }
 
-.site .header h1.title a:hover {
-  color: #000;
+.header .site-nav{
+  margin-top: 13px;
+  margin-bottom: 0px;
+  list-style: none;
 }
 
-.site .header a.extra {
-  color: #aaa;
-  margin-left: 1em;
+.site-nav li{
+  display: inline-block;
+  margin-left: 30px;
 }
 
-.site .header a.extra:hover {
-  color: #000;
+.site-nav li a{
+  text-decoration: none;
+  color: #222;
 }
 
-.site .meta {
-  color: #aaa;
+.site-nav li a:hover{
+  text-decoration: underline;
 }
-
 .site .footer {
   font-size: 80%;
   color: #666;
@@ -124,42 +133,4 @@ ul.posts span {
 
 .site .footer .rss img {
   border: 0;
-}
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-/* standard */
-#post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
-}
-
-#post ul, #post ol {
-  margin-left: 1.35em;
-}
-
-#post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
-
-#post pre code {
-  border: none;
-}
-
-/* terminal */
-#post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-#post pre.terminal code {
-  background-color: #333;
 }
