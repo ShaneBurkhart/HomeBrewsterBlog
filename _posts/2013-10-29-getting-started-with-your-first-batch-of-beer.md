@@ -4,7 +4,7 @@ published: true
 title: Getting Started With Your First Batch of Beer!
 ---
 
-A lot of people are intimidated by home brewing beer.  Most think that it's too hard or that you need a lot of fancy equipment.  Some people think it's just plain illegal.  In reality, these are all myths.  Brewing your own beer is a very fun and rewarding experience.
+A lot of people are intimidated by homebrewing beer.  Most think that it's too hard or that you need a lot of fancy equipment.  Some people think it's just plain illegal.  In reality, these are all myths.  Brewing your own beer is a very fun and rewarding experience.
 
 When I first heard a friend say he brewed his own beer, I decided to do some research.  After a quick Google search, I was extremely overwhelmed!  The numerous methods and terms were really intimidating and didn't make any sense.  I had no idea what to do.
 
@@ -12,7 +12,7 @@ After some slight discouragement, I decided I would contact my friend and ask hi
 
 The book does a very nice job of explaining the different ingredients and equipment while taking you through the brewing process.  It starts with a very simple extract brew and eventually progresses to an all-grain brew with added ingredients of your choice.  I highly recommend the book for anyone interested in learning to brew their own beer.
 
-Anyways, let's get back to breaking the fallacies of home brewing.
+Anyways, let's get back to breaking the fallacies of homebrewing.
 
 ### Is it hard?
 
@@ -22,7 +22,7 @@ The process of brewing beer can be condensed down into very basic steps.  Essent
 
 ### Do I need a lot of fancy equipment?
 
-All you need is a big 4 to 6 gallon (depending on how much you are brewing) pot for boiling water, an airtight container for fermenting, a thermometer, and a hydrometer.  With this equipment, you should be able to make your first batch of beer.  Of course, you're going to need bottles, but those can be obtained from your local bar or home brewing store.
+All you need is a big 4 to 6 gallon (depending on how much you are brewing) pot for boiling water, an airtight container for fermenting, a thermometer, and a hydrometer.  With this equipment, you should be able to make your first batch of beer.  Of course, you're going to need bottles, but those can be obtained from your local bar or homebrewing store.
 
 ### Is it illegal?
 
@@ -31,7 +31,7 @@ Definitely not!  Making your own beer, or any alcohol for that matter, isn't at 
 
 ### Wrapping it up.
 
-Don't be discouraged by first impressions!  Home brewing your own beer is easy and delicious.
+Don't be discouraged by first impressions!  Homebrewing your own beer is easy and delicious.
 
 Next steps would be to buy [this](http://www.amazon.com/The-Complete-Homebrewing-Third-Edition/dp/0060531053) book and start brewing.  I highly recommend it, and it will teach you the basics of brewing your own beer.
 
