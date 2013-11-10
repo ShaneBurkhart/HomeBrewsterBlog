@@ -22,7 +22,7 @@ task :post do
     "title: #{post_name}",
     "---"
   ].join("\n")
-  post_name  = post_name.downcase.gsub " ", "-"
+  post_name  = post_name.downcase.chomp(".").chomp(" ").gsub(" ", "-")
   today = Date.today
   file_name = "#{today.year}-#{today.month}-#{today.day}-#{post_name}.md"
   STDOUT.puts "Creating file #{file_name}"
