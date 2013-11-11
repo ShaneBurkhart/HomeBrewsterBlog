@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Getting Started With Your First Batch of Beer!
+title: Common Misconceptions of Homebrewing.
 ---
 
 A lot of people are intimidated by homebrewing beer.  Most think that it's too hard or that you need a lot of fancy equipment.  Some people think it's just plain illegal.  In reality, these are all myths.  Brewing your own beer is a very fun and rewarding experience.
